@@ -1,0 +1,227 @@
+{
+  "variants": {
+    "facing=north,progress=0": {
+      "model": "minecraft:block/air"
+    },
+    "facing=east,progress=0": {
+      "model": "minecraft:block/air",
+      "y": 90
+    },
+    "facing=south,progress=0": {
+      "model": "minecraft:block/air",
+      "y": 180
+    },
+    "facing=west,progress=0": {
+      "model": "minecraft:block/air",
+      "y": 270
+    },
+
+    "facing=north,progress=1": {
+      "model": "bcm:block/computer/progress_1"
+    },
+    "facing=east,progress=1": {
+      "model": "bcm:block/computer/progress_1",
+      "y": 90
+    },
+    "facing=south,progress=1": {
+      "model": "bcm:block/computer/progress_1",
+      "y": 180
+    },
+    "facing=west,progress=1": {
+      "model": "bcm:block/computer/progress_1",
+      "y": 270
+    },
+
+    "facing=north,progress=2": {
+      "model": "bcm:block/computer/progress_2"
+    },
+    "facing=east,progress=2": {
+      "model": "bcm:block/computer/progress_2",
+      "y": 90
+    },
+    "facing=south,progress=2": {
+      "model": "bcm:block/computer/progress_2",
+      "y": 180
+    },
+    "facing=west,progress=2": {
+      "model": "bcm:block/computer/progress_2",
+      "y": 270
+    },
+
+    "facing=north,progress=3": {
+      "model": "bcm:block/computer/progress_3"
+    },
+    "facing=east,progress=3": {
+      "model": "bcm:block/computer/progress_3",
+      "y": 90
+    },
+    "facing=south,progress=3": {
+      "model": "bcm:block/computer/progress_3",
+      "y": 180
+    },
+    "facing=west,progress=3": {
+      "model": "bcm:block/computer/progress_3",
+      "y": 270
+    },
+
+    "facing=north,progress=4": {
+      "model": "bcm:block/computer/progress_4"
+    },
+    "facing=east,progress=4": {
+      "model": "bcm:block/computer/progress_4",
+      "y": 90
+    },
+    "facing=south,progress=4": {
+      "model": "bcm:block/computer/progress_4",
+      "y": 180
+    },
+    "facing=west,progress=4": {
+      "model": "bcm:block/computer/progress_4",
+      "y": 270
+    },
+
+    "facing=north,progress=5": {
+      "model": "bcm:block/computer/progress_5"
+    },
+    "facing=east,progress=5": {
+      "model": "bcm:block/computer/progress_5",
+      "y": 90
+    },
+    "facing=south,progress=5": {
+      "model": "bcm:block/computer/progress_5",
+      "y": 180
+    },
+    "facing=west,progress=5": {
+      "model": "bcm:block/computer/progress_5",
+      "y": 270
+    },
+
+    "facing=north,progress=6": {
+      "model": "bcm:block/computer/progress_6"
+    },
+    "facing=east,progress=6": {
+      "model": "bcm:block/computer/progress_6",
+      "y": 90
+    },
+    "facing=south,progress=6": {
+      "model": "bcm:block/computer/progress_6",
+      "y": 180
+    },
+    "facing=west,progress=6": {
+      "model": "bcm:block/computer/progress_6",
+      "y": 270
+    },
+
+    "facing=north,progress=7": {
+      "model": "bcm:block/computer/progress_7"
+    },
+    "facing=east,progress=7": {
+      "model": "bcm:block/computer/progress_7",
+      "y": 90
+    },
+    "facing=south,progress=7": {
+      "model": "bcm:block/computer/progress_7",
+      "y": 180
+    },
+    "facing=west,progress=7": {
+      "model": "bcm:block/computer/progress_7",
+      "y": 270
+    },
+
+    "facing=north,progress=8": {
+      "model": "bcm:block/computer/progress_8"
+    },
+    "facing=east,progress=8": {
+      "model": "bcm:block/computer/progress_8",
+      "y": 90
+    },
+    "facing=south,progress=8": {
+      "model": "bcm:block/computer/progress_8",
+      "y": 180
+    },
+    "facing=west,progress=8": {
+      "model": "bcm:block/computer/progress_8",
+      "y": 270
+    },
+
+    "facing=north,progress=9": {
+      "model": "bcm:block/computer/progress_9"
+    },
+    "facing=east,progress=9": {
+      "model": "bcm:block/computer/progress_9",
+      "y": 90
+    },
+    "facing=south,progress=9": {
+      "model": "bcm:block/computer/progress_9",
+      "y": 180
+    },
+    "facing=west,progress=9": {
+      "model": "bcm:block/computer/progress_9",
+      "y": 270
+    },
+
+    "facing=north,progress=10": {
+      "model": "bcm:block/computer/progress_10"
+    },
+    "facing=east,progress=10": {
+      "model": "bcm:block/computer/progress_10",
+      "y": 90
+    },
+    "facing=south,progress=10": {
+      "model": "bcm:block/computer/progress_10",
+      "y": 180
+    },
+    "facing=west,progress=10": {
+      "model": "bcm:block/computer/progress_10",
+      "y": 270
+    },
+
+    "facing=north,progress=11": {
+      "model": "bcm:block/computer/progress_11"
+    },
+    "facing=east,progress=11": {
+      "model": "bcm:block/computer/progress_11",
+      "y": 90
+    },
+    "facing=south,progress=11": {
+      "model": "bcm:block/computer/progress_11",
+      "y": 180
+    },
+    "facing=west,progress=11": {
+      "model": "bcm:block/computer/progress_11",
+      "y": 270
+    },
+
+    "facing=north,progress=12": {
+      "model": "bcm:block/computer/progress_12"
+    },
+    "facing=east,progress=12": {
+      "model": "bcm:block/computer/progress_12",
+      "y": 90
+    },
+    "facing=south,progress=12": {
+      "model": "bcm:block/computer/progress_12",
+      "y": 180
+    },
+    "facing=west,progress=12": {
+      "model": "bcm:block/computer/progress_12",
+      "y": 270
+    },
+
+    "facing=north,progress=13": {
+      "model": "bcm:block/computer/progress_13"
+    },
+    "facing=east,progress=13": {
+      "model": "bcm:block/computer/progress_13",
+      "y": 90
+    },
+    "facing=south,progress=13": {
+      "model": "bcm:block/computer/progress_13",
+      "y": 180
+    },
+    "facing=west,progress=13": {
+      "model": "bcm:block/computer/progress_13",
+      "y": 270
+    }
+  }
+}

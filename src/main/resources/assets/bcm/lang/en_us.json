@@ -1,0 +1,13 @@
+{
+    "itemGroup.bcm.tab": "Bitheral's Computational Mod",
+
+    "item.bcm.cpu": "CPU",
+    "item.bcm.ram": "RAM",
+    "item.bcm.gpu": "GPU",
+    "item.bcm.ssd": "Solid State Drive",
+    "item.bcm.hdd": "Hard Disk Drive",
+    "item.bcm.motherboard": "Motherboard",
+    "item.bcm.chassis": "Chassis",
+
+    "block.bcm.computer": "Computer"
+}
